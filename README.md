@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristiand395&label=Profile%20views&color=0e75b6&style=flat" alt="cristiand395" /> </p>
 
-- 🔭 I’m currently working on **Scraping projects**
+- 🔭 I’m currently working on **React projects**
 
 - 🌱 I’m currently learning **Data Science, Data Analysis and Machine Learning,**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Refreshing Software Projects**
 
-- 🤝 I can work with you in **Spanish and English**
+- 🤝 I can communicate with you in **Spanish and English**
 
 - 👨‍💻 All of my projects are available here at [https://github.com/cristiand395](https://github.com/cristiand395)
 
