@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Davila</h1>
-<h3 align="center">A passionate developer working data science projects, interested in Solve problems with tech tools and specific with code</h3>
+<h3 align="center">A passionate software developer working on Web Development and data science projects, interested in Solve problems with tech tools and specific with code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristiand395&label=Profile%20views&color=0e75b6&style=flat" alt="cristiand395" /> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently working on **Fronted Development and Data Science Projects**
 
 - 🌱 I’m currently learning **Data Science, Data Analysis and Machine Learning,**
 
